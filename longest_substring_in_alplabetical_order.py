@@ -1,3 +1,4 @@
+s = input("Enter a string for eg: 'azcbobobegghakl'")
 longest=""
 temp=""
 prev=""
